@@ -1,4 +1,4 @@
-# tdt
+# DVB-T Logos
 
 DVB-T Channel logos to be used with TV Headend.
 
