@@ -1,0 +1,6 @@
+--2019-01-13 09:58:54--  https://media.tvalacarta.info/canales/256x256/ib3.png
+Resolving media.tvalacarta.info (media.tvalacarta.info)... 5.9.18.149
+Connecting to media.tvalacarta.info (media.tvalacarta.info)|5.9.18.149|:443... connected.
+ERROR: cannot verify media.tvalacarta.info's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to media.tvalacarta.info insecurely, use `--no-check-certificate'.
